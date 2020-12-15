@@ -1,0 +1,24 @@
+{
+  "name": "telegram-webcam",
+  "version": "1.0.0",
+  "description": "School project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ATAMAH/telegram-webcam.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ATAMAH/telegram-webcam/issues"
+  },
+  "homepage": "https://github.com/ATAMAH/telegram-webcam#readme",
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "node-telegram-bot-api": "^0.50.0",
+    "pi-camera-connect": "^0.3.4"
+  }
+}
