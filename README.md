@@ -19,4 +19,4 @@ $ node server.js
 
 Откройте чат со своим ботом и отправьте ему сообщение /photo
 
-![webpage view](https://raw.githubusercontent.com/ATAMAH/telegram-webcam/master/screen01.png)
+![webpage view](https://raw.githubusercontent.com/ATAMAH/telegram-webcam/master/screen02.png)
